@@ -106,7 +106,7 @@ House-Price-Prediction-ML/
 
 ## 👨‍💻 Author
 
-**Allen Christian**
+**Allen Christian** | Patent Holder
 - 🎓 AI & Data Science Student — A.D. Patel Institute of Technology
 - 💼 [LinkedIn](https://www.linkedin.com/in/allen-christian-708545409)
 - 🌐 [Portfolio](https://allen745.github.io)
